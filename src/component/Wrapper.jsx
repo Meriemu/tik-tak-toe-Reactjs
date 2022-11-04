@@ -33,8 +33,6 @@ const Wrapper = () => {
     ];
     for (let i of tab) {
       const [a, b, c] = i;
-      // console.log(cases[a]);
-
       if (cases[a] && cases[a] === cases[b] && cases[a] === cases[c]) {
         return cases[a];
       }
