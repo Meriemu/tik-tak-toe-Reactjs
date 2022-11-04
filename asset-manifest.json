@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tik-tak-toe-Reactjs/static/css/main.217f961c.css",
-    "main.js": "/tik-tak-toe-Reactjs/static/js/main.334b2dca.js",
-    "static/media/wellDone.png": "/tik-tak-toe-Reactjs/static/media/wellDone.536cebff1c743d6a7a00.png",
+    "main.css": "/tik-tak-toe-Reactjs/static/css/main.2b65bce2.css",
+    "main.js": "/tik-tak-toe-Reactjs/static/js/main.d4d75ead.js",
+    "static/media/wellDone_pink.png": "/tik-tak-toe-Reactjs/static/media/wellDone_pink.4af40f80eecc80d09f13.png",
     "index.html": "/tik-tak-toe-Reactjs/index.html",
-    "main.217f961c.css.map": "/tik-tak-toe-Reactjs/static/css/main.217f961c.css.map",
-    "main.334b2dca.js.map": "/tik-tak-toe-Reactjs/static/js/main.334b2dca.js.map"
+    "main.2b65bce2.css.map": "/tik-tak-toe-Reactjs/static/css/main.2b65bce2.css.map",
+    "main.d4d75ead.js.map": "/tik-tak-toe-Reactjs/static/js/main.d4d75ead.js.map"
   },
   "entrypoints": [
-    "static/css/main.217f961c.css",
-    "static/js/main.334b2dca.js"
+    "static/css/main.2b65bce2.css",
+    "static/js/main.d4d75ead.js"
   ]
 }
