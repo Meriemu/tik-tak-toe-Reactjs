@@ -6,21 +6,17 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  transition: transform .8s;
+  transition: transform 1s;
   transform: translate(-50%, -50%) scale(0);
 
   &.show {
-  -ms-transform:translate(-50%, -50%) scale(.6) ; /* IE 9 */
-  -webkit-transform:translate(-50%, -50%) scale(.6); /* Safari 3-8 */
-  transform:translate(-50%, -50%) scale(.6);     
+    transform: translate(-50%, -50%) scale(.6);     
   }
 
   
   @media screen and (min-width : 768px) {
     &.show {
-    -ms-transform: scale(1) translate(-50%, -50%); /* IE 9 */
-    -webkit-transform: scale(1) translate(-50%, -50%); /* Safari 3-8 */
-    transform: scale(1) translate(-50%, -50%);     
+      transform: translate(-50%, -50%) scale(1);     
     }
   }
 }
