@@ -1,7 +1,8 @@
 <!-- Created by Meryem ACHEMLAL -->
 
 ### Published on github pages :
- https://meriemu.github.io/Tabs-Reactjs/
+ https://meriemu.github.io/tik-tak-toe-Reactjs
+
  
 # Getting Started with Create React App
 
