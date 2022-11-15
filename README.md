@@ -1,4 +1,8 @@
 <!-- Created by Meryem ACHEMLAL -->
+
+### Published on github pages :
+ https://meriemu.github.io/Tabs-Reactjs/
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
